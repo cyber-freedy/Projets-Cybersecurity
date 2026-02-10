@@ -1,0 +1,10 @@
+Results du scan Nmap
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-03-26 03:29 CET
+Nmap scan report for carriereunion.com (216.172.184.173)
+Host is up (0.0055s latency).
+rDNS record for 216.172.184.173: 216-172-184-173.unifiedlayer.com
+All 1000 scanned ports on carriereunion.com (216.172.184.173) are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.39 seconds
